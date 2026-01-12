@@ -100,7 +100,6 @@ making and includes:
 - Cleaned datasets exported from SQL Server
 - Interactive Power BI dashboard (`.pbix`)
 - Static dashboard preview (`.pdf`)
-- Business request and user story documentation
 
 ---
 
@@ -109,5 +108,4 @@ making and includes:
 sql/           → SQL data cleaning scripts  
 data/          → Cleaned and exported datasets  
 powerbi/       → Power BI dashboard files  
-business_docs/ → Business request & user stories  
-images/        → Dashboard preview image  
+ 
