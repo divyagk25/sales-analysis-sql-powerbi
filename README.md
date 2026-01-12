@@ -82,7 +82,7 @@ making and includes:
 
 
 ---
-Dashboard: : https://github.com/divyagk25/sales-analysis-sql-powerbi/tree/main/powerbi#:~:text=1%20hour%20ago-,Sales%20Report.pdf,-Add%20files%20via
+Dashboard: : [https://github.com/divyagk25/sales-analysis-sql-powerbi/tree/main/powerbi#:~:text=1%20hour%20ago-,Sales%20Report.pdf,-Add%20files%20via](https://github.com/divyagk25/sales-analysis-sql-powerbi/blob/main/powerbi/Sales%20Report.pdf)
 ---
 ## Key Insights
 - Sales show strong seasonal patterns over time
