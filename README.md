@@ -82,7 +82,8 @@ making and includes:
 
 
 ---
-
+Dashboard: : https://github.com/divyagk25/sales-analysis-sql-powerbi/tree/main/powerbi#:~:text=1%20hour%20ago-,Sales%20Report.pdf,-Add%20files%20via
+---
 ## Key Insights
 - Sales show strong seasonal patterns over time
 - A small group of customers contributes a large share of revenue
