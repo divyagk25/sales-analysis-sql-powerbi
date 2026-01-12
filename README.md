@@ -80,10 +80,6 @@ making and includes:
 - Budget vs actual comparison
 - Interactive filters and slicers
 
----
-
-## Dashboard Preview
-![Sales Dashboard](images/dashboard_preview.png)
 
 ---
 
